@@ -31,11 +31,22 @@ India stands at a critical juncture where it can leapfrog traditional developmen
 - [ ] Establish Project Management Office
 - [ ] Create ai-mission@india.gov.in communication channel
 
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Can't get PM's attention? Start "India AI Now" movement on LinkedIn. Post daily AI use cases. Tag ministers, bureaucrats, CEOs. After 1000 followers, they'll come to YOU for the official mission. Cost: ₹0. Time: 15 min/day.
+
 #### Week 2: Quick Wins
 - [ ] Launch 100 AI Study Circles in top colleges
+
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> No access to colleges? Start ONE WhatsApp group "AI Study Circle India". Add 10 friends. Ask each to add 10. Within a week: 1000 members. Share one AI tip daily. Colleges will beg to formalize YOUR movement.
+
 - [ ] Partner with 3 cloud providers for free credits
 - [ ] Open 10 government datasets for AI training
 - [ ] Announce ₹100 crore AI Grand Challenge
+
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Can't offer ₹100 crore? Run "₹10,000 Tuesday" challenges. Every Tuesday, one small problem, ₹10,000 prize. After 10 weeks, you'll have 10 solved problems and media calling you "the people's AI challenge."
+
 - [ ] Start WhatsApp AI course pilot (1000 users)
 
 #### Week 3: Stakeholder Engagement

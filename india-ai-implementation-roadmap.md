@@ -8,10 +8,16 @@
   - Weekly virtual meetings
   - Clear charter and deliverables
 
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Create an "Unofficial AI Brain Trust" with 10 passionate volunteers. Meet on Zoom every Sunday morning. Share meeting notes publicly on LinkedIn. Within 3 months, officials will join your calls because you're where the real discussions happen. Cost: ₹0.
+
 - **Stakeholder Mapping**
   - Identify 100 key organizations
   - Create engagement matrix
   - Assign relationship owners
+
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Build a simple Airtable database of AI players in India. Make it public. Let everyone add to it. Within weeks, you'll have the most comprehensive stakeholder map in the country. Government will use YOUR database. Effort: 2 hours setup.
 
 ### Week 3-4: Quick Wins
 - **Launch AI Literacy Campaign**
@@ -19,10 +25,16 @@
   - Target: 10,000 enrollments in first month
   - Certificate program with industry recognition
 
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Don't build courses. Curate the best free AI resources into a "Learning Path" Google Doc. Share it everywhere. Add WhatsApp/Telegram groups for peer support. You'll reach 10,000 people faster than any platform. Time: 1 weekend.
+
 - **Open Data Initiative**
   - Release 10 high-value government datasets
   - Create data.gov.in AI section
   - Establish data quality standards
+
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Can't get government data? Scrape public websites (legally). Create 5 useful datasets (train timings, weather, crop prices). Host on GitHub. Developers will build amazing things. You become the unofficial "data hero."
 
 ### Week 5-8: Infrastructure Setup
 - **Compute Access Program**
@@ -30,10 +42,16 @@
   - ₹100 crore initial allocation
   - Simple application process for startups/researchers
 
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Contact ONE cloud provider's startup program manager. Negotiate a bulk deal for 100 startups. They get customers, startups get credits, you're the hero. One email, one call, massive impact. No budget needed.
+
 - **AI Sandbox Creation**
   - Regulatory sandbox for fintech AI
   - Healthcare AI pilot zones
   - Transportation AI testbeds
+
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Create a "Virtual AI Sandbox" - just a Telegram group where people can test ideas without regulation fear. Document what works. When government creates official sandbox, they'll copy your rules. You shaped policy with zero authority.
 
 ### Week 9-12: Program Launch
 - **Grand Challenge Announcement**
@@ -41,10 +59,16 @@
   - ₹10 crore prize per challenge
   - 6-month development timeline
 
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Launch "Friday AI Fix" - every Friday, post one real problem on Twitter (traffic at a junction, crop disease, etc.) with data. Offer ₹5,000 for best solution by Monday. 52 mini-challenges/year, total cost ₹2.6 lakh, massive engagement.
+
 - **University Partnership Program**
   - MoUs with top 20 engineering colleges
   - AI curriculum integration support
   - Faculty training initiatives
+
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Skip the MoUs. Find 20 enthusiastic students (one per college). Give them "AI Ambassador" titles and LinkedIn badges. They'll organize study groups, workshops, hackathons. Cost: ₹0. Impact: 20,000 students reached.
 
 ## Phase 2: Building Momentum (Months 4-12)
 

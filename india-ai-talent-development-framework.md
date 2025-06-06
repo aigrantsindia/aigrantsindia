@@ -28,6 +28,9 @@
 - Startup incubation support
 - Annual cohorts of 2,000
 
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Can't partner with MIT? Create "AI Leaders WhatsApp University" - get 10 top AI professionals to each mentor 10 people via WhatsApp. Weekly voice notes, monthly video calls. Cost: ₹0. Impact: 100 future leaders in 6 months who learn from real practitioners, not professors.
+
 **Global Fellowship Program**
 - 1-year placements at top tech companies
 - Research collaborations
@@ -63,6 +66,9 @@
 - Live project experience
 - Placement guarantee
 - 20,000 seats per batch
+
+🚀 **[SMALL ORG HIGH-LEVERAGE ACTION]**
+> Forget building bootcamps. Create "Open Source Fridays" - every Friday, host a 2-hour session where engineers work on real AI projects together. Stream it live. After 6 months, participants have GitHub portfolios that get them hired. Investment: ₹0. Impact: 1,000 job-ready engineers.
 
 **Corporate Residency**
 - 1-year programs with leading companies
