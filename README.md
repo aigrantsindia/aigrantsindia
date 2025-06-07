@@ -1,4 +1,4 @@
-# AI Grants India - National AI Ecosystem Building Strategy
+# India AI Ecosystem Building Strategy
 
 ## 🚀 Vision
 Make India the global leader in inclusive, ethical, and affordable AI solutions that serve billions, not millions.
@@ -22,6 +22,20 @@ This repository contains a comprehensive strategy for accelerating AI innovation
 9. **[Partnerships & Funding Strategy](india-ai-partnerships-funding.md)** - Mobilizing ₹25,00,000 crore
 10. **[Global Positioning Strategy](india-ai-global-positioning-strategy.md)** - Establishing India as AI leader
 11. **[Visual Summary](india-ai-visual-summary.md)** - Diagrams and frameworks
+
+### For Small Teams & Organizations
+12. **[High-Leverage Strategies](high-leverage/high-leverage-strategies.md)** - Maximum impact with minimal resources
+13. **[Top 10 Actionable Initiatives](top-10-actionable-initiatives.md)** - Committee-selected best effort-impact ratio initiatives
+
+### Outreach & Communication
+14. **[Outreach Strategy](outreach/README.md)** - AI-powered distribution plan to reach 1 million Indians
+15. **[Government Brief](outreach/government/policy-maker-brief.md)** - For policy makers and bureaucrats
+16. **[Industry Guide](outreach/industry/ceo-action-guide.md)** - For business leaders and CEOs
+17. **[Teacher Kit](outreach/education/teacher-empowerment-kit.md)** - For educators
+18. **[Student Playbook](outreach/students/future-ready-guide.md)** - For students and young professionals
+19. **[Citizen Guide](outreach/citizens/ai-for-everyone.md)** - For general public (multilingual)
+20. **[Media Press Kit](outreach/media/press-kit.md)** - For journalists and media
+21. **[AI Distribution Strategy](outreach/ai-distribution-strategy.md)** - How to spread the message with AI tools
 
 ## 🎯 Key Goals
 
