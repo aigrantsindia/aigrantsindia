@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # India AI Ecosystem Building Strategy
 
 ## 🚀 Vision
@@ -126,8 +125,8 @@ This repository contains a comprehensive strategy for accelerating AI innovation
 - Top 5 global ranking
 
 ## 📞 Contact
-- Email: ai-mission@india.gov.in
-- Website: www.aiforindia.gov.in
+- Email: aigrantsindia at gmail.com
+- Website: aigrants.in
 - Join the Movement: #AIForIndia
 
 ## 📄 License
@@ -138,16 +137,9 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 *"India's AI journey is not about catching up; it's about leapfrogging through innovative approaches that turn our constraints into competitive advantages."*
 
 **Jai Hind! Jai AI!** 🇮🇳
-=======
 
 **Star this project** 
 to continue [AI Grants India](https://x.com/@aigrantsindia)'s mission in fostering AI in India for the great good
 
 More updates coming soon, so watch and stay tuned!
 
-
-
-
-
-
->>>>>>> 05a1028ac911000f5c981c87ee5c90a4a723dde0
